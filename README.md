@@ -1,7 +1,7 @@
 # Kempiler
 Hobby language.
 
-#Steps to run
+# Steps to run
 1. `Cmake`
 2. `make`
 3. `cd build`
