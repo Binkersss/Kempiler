@@ -1,6 +1,10 @@
 # Kempiler
 Hobby language.
 
+Requires nasm and ld
+
+Verified on ubuntu windows subsystem for linux
+
 # Steps to run
 1. `Cmake`
 2. `make`
